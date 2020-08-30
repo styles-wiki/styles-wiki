@@ -11,3 +11,5 @@ Use this repo to submit issues for \*.styles.wiki.
 ## Current wikis:
 
 - [**techwriting.styles.wiki**](https://techwriting.styles.wiki/) is for technical writing - project documentation, scoping docs, tech specs, RFCs etc.
+
+  ![](https://i.fluffy.cc/MvFgT8KR75wrnK18l6ck1mSvCdSvffjK.png)
