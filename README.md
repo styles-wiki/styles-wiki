@@ -1,2 +1,3 @@
-# style-wiki
-meta-repo for issuea on *.styles.wiki
+# styles-wiki
+
+meta-repo for issues on *.styles.wiki
