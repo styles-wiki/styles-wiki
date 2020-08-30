@@ -6,7 +6,7 @@ automagically appear in the web app using [Incremental Static Generation][isr].
 
 [isr]: https://nextjs.org/blog/next-9-5#stable-incremental-static-regeneration
 
-Use this repo for discussion and issues around \*.styles.wiki
+Use this repo to submit issues for \*.styles.wiki.
 
 ## Current wikis:
 
