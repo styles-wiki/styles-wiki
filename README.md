@@ -8,4 +8,4 @@ automagically appear in the web app using [Incremental Static Generation][isr].
 
 ## Current wikis:
 
-- ** [techwriting.styles.wiki](https://techwriting.styles.wiki/)** is for technical writing - project documentation, scoping docs, tech specs, RFCs etc.
+- [**techwriting.styles.wiki**](https://techwriting.styles.wiki/) is for technical writing - project documentation, scoping docs, tech specs, RFCs etc.
