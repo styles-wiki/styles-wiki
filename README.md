@@ -12,4 +12,4 @@ Use this repo to submit issues for \*.styles.wiki.
 
 - [**techwriting.styles.wiki**](https://techwriting.styles.wiki/) is for technical writing - project documentation, scoping docs, tech specs, RFCs etc.
 
-  ![](https://i.fluffy.cc/MvFgT8KR75wrnK18l6ck1mSvCdSvffjK.png)
+  ![](https://i.fluffy.cc/mxghkNw2kKSLJfqG0jDrWRhR22BNBzDz.png)
